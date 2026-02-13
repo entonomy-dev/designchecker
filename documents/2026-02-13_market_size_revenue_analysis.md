@@ -197,17 +197,23 @@ The triangulated TAM range is $255M-$612M, which is consistent with the bottom-u
 
 Validating against known SaaS revenues in adjacent categories:
 
-| Company | Product Type | 2024 ARR | Customers | Implied ACV |
-|---------|-------------|----------|-----------|-------------|
-| Semrush | SEO/marketing platform | $455M (Q3 2025) | ~117,000 paying | ~$3,900 |
-| Ahrefs | SEO tools | $149M | ~50,000 paying | ~$2,980 |
-| Screaming Frog | SEO crawler | ~$30M+ (est.) | ~115,000+ licenses | ~$259 |
-| Hotjar (pre-acquisition) | UX analytics | $40M (2021) | ~21,000 paying | ~$1,905 |
-| Siteimprove | Digital quality mgmt | ~$180M (est.) | ~7,500 | ~$24,000 |
-| Stark | Accessibility | ~$10M (est.) | ~50,000 company users | ~$200 |
-| BugHerd | Visual QA | ~$5M (est.) | ~5,000 | ~$1,000 |
+| Company | Product Type | Latest ARR | Customers | Implied ACV | Notable |
+|---------|-------------|------------|-----------|-------------|---------|
+| Semrush | SEO/marketing platform | $455M (Q3 2025) | ~114,000 paying | ~$4,000 | Adobe acquisition pending at $12/share; AI ARR doubled QoQ in Q3 2025 |
+| Ahrefs | SEO tools | ~$150M (2024) | ~49,000 paying | ~$3,060 | Bootstrapped, no sales team, 171 employees, ~$872K revenue/employee |
+| Screaming Frog | SEO crawler | ~$30M+ (est.) | ~115,000+ licenses | ~$259 | Single-product company with extreme capital efficiency |
+| Hotjar (pre-acquisition) | UX analytics | $40M (2021) | ~21,000 paying | ~$1,905 | Reached $1M ARR in 6 months; acquired by Contentsquare |
+| Siteimprove | Digital quality mgmt | ~$180M (est.) | ~7,500 | ~$24,000 | Enterprise-focused digital quality management platform |
+| Stark | Accessibility | ~$10M (est.) | ~50,000 company users | ~$200 | Pure-play accessibility, growing rapidly post-EAA |
+| BugHerd | Visual QA | ~$5M (est.) | ~5,000 | ~$1,000 | Visual feedback tool for agencies |
 
-**Key insight:** Semrush at $455M ARR and Ahrefs at $150M ARR demonstrate that the agency/digital marketing tool market can support nine-figure revenues. Siteimprove at an estimated $180M ARR shows enterprise digital quality management is a large and growing category. DesignChecker, positioned between specialized tools (Stark, BugHerd) and comprehensive platforms (Semrush, Siteimprove), has room to grow into a $50-100M ARR business within 5-7 years.
+**Key insights:**
+
+1. **Semrush's upmarket shift validates the agency TAM:** Despite losing ~3,000 net customers between Q4 2024 and Q3 2025, Semrush grew ARR by $44M because average ACV rose from $3,522 to $4,000 (+14%). Customers paying >$50K/year grew 72% YoY. This demonstrates that agency/marketing tool customers will pay premium prices when the value is clear. Semrush's pending acquisition by Adobe at $12/share (~$1.4B enterprise value) further validates the market category.
+
+2. **Ahrefs proves bootstrapped SaaS can reach $150M ARR:** With zero venture capital and no sales team, Ahrefs achieved $150M ARR through product-led growth and content marketing alone. This is the most relevant comparable for DesignChecker's bootstrapped base case scenario.
+
+3. **Siteimprove validates the design/quality evaluation niche:** At an estimated $180M ARR with an ACV of $24,000, Siteimprove shows that enterprise digital quality management is a substantial standalone category. DesignChecker, positioned between specialized tools (Stark, BugHerd) and comprehensive platforms (Semrush, Siteimprove), has room to grow into a $50-100M ARR business within 5-7 years.
 
 ---
 
@@ -402,16 +408,16 @@ The improving unit economics over time reflect lower churn as the product mature
 ### 8.1 Structural Growth Drivers
 
 **Regulatory Tailwinds:**
-The European Accessibility Act (EAA) became enforceable on June 28, 2025, creating mandatory compliance demand across the EU. WCAG 3.0 is in development and will expand requirements further. In the US, ADA web accessibility lawsuits continue to increase year-over-year. The digital accessibility software market is projected to grow from $850M (2025) to $1.89B (2034) at 9.33% CAGR (Fortune Business Insights). This regulatory pressure creates a compliance floor for design evaluation tool adoption.
+The European Accessibility Act (EAA) became enforceable on June 28, 2025, creating mandatory compliance demand across all 27 EU member states. The EAA applies extraterritorially -- any business offering products or services in the EU must comply, regardless of where the business is based (similar to GDPR). Penalties vary by member state but are significant: up to EUR 500,000+ in fines, daily penalties, public non-compliance notices, and in some jurisdictions criminal penalties (Ireland: up to 18 months imprisonment). With 101 million people (1 in 4 over age 16) in the EU having a disability, and 75% of top German e-commerce sites found non-compliant in recent surveys, the compliance gap is enormous. In the US, ADA web accessibility lawsuits reached 8,800 in 2024, continuing to increase year-over-year. WCAG 3.0 is in development and will further expand requirements. The digital accessibility software market is projected to grow from $850M-$1.42B (2025, depending on source) to $1.89-$3.24B (2034) at 8.6-9.33% CAGR (Fortune Business Insights / Straits Research). This regulatory pressure creates a hard compliance floor for design evaluation tool adoption, making accessibility a non-optional purchase rather than a discretionary one.
 
 **Agency Market Expansion:**
 The 10-50 employee agency cohort is growing at 12-15% annually (Promethean Research). US digital agencies grew 10.8% in a single year (IBISWorld 2025). The broader digital marketing agency market is projected to grow at 14.32% CAGR through 2035 (Business Research Insights). This expanding customer base increases the addressable market by approximately 12% annually.
 
 **SaaS Pricing Environment:**
-73% of SaaS companies raised prices in 2025, with an average increase of 14.2% (SaaS Price Pulse Q1 2026). Average SaaS spend per employee rose to $7,900 annually, up 27% over two years. This macro environment supports premium pricing for specialized tools.
+73% of SaaS companies raised prices in 2025, with an average increase of 14.2% (SaaS Price Pulse Q1 2026). Average SaaS spend per employee rose to $7,900 annually, up 27% over two years. The average enterprise now spends $52 million annually on SaaS applications (up from $45M in 2024), with SaaS representing 70% of total software spending (up from 55% in 2020). The average SaaS contract includes a 5-8% annual price escalator compounding costs year over year. Notably, 68.6% of SaaS companies increased their average contract value in 2025, driven partly by AI-premium tier adoption: McKinsey's 2026 Software Pricing Report reveals 62% of SaaS platforms introduced AI-premium tiers, with buyers budgeting 25-35% higher when adding AI functionality. The broader shift from pure per-seat pricing toward hybrid and usage-based models (per-seat share shrinking, hybrid rising from 27% to 41%) creates an opportunity for DesignChecker to capture more value through usage-based pricing alongside seat-based plans.
 
 **AI Capability Expansion:**
-Advances in computer vision and large language models enable automated visual design evaluation that was previously impossible. AI-native tools represent the fastest-growing SaaS category (23.4% average price increase vs. 14.2% market-wide). DesignChecker's AI-powered design scoring positions it in this high-growth category.
+Advances in computer vision and large language models enable automated visual design evaluation that was previously impossible. AI-native tools represent the fastest-growing SaaS category (23.4% average price increase vs. 14.2% market-wide), and SaaS spending on AI-native applications grew 75% YoY according to the 2025 SaaS Management Index. Vendors are increasingly charging $800-$2,000+ monthly per AI agent, positioning software as an FTE replacement (cost anchor: $60K salary vs. $20/month license). DesignChecker's AI-powered design scoring positions it in this high-growth category, and the MCP (Model Context Protocol) standardization in January-February 2026 across tools like Figma, v0, and Anima creates new integration pathways for AI-driven design evaluation within existing workflows.
 
 **Shift-Left Quality Movement:**
 The industry trend toward catching quality issues earlier (in design/staging, not production) mirrors the DevOps shift-left testing movement. This structural shift expands the addressable use cases for design evaluation tools.
@@ -570,27 +576,51 @@ Based on the analysis above, we recommend the following market entry sequence:
 
 ## Sources
 
+### Agency Market Data
 - IBISWorld: Digital Advertising Agencies in the US, 2025 (60,053 agencies, $58.2B market)
 - IBISWorld: Global Advertising Agencies Number of Businesses (437,618 globally, 2024)
 - Promethean Research: 2025 Digital Agency Industry Report (size distribution, growth rates)
 - Statista: Number of Advertising Agencies Worldwide 2014-2024 (433,400+)
 - Business Research Insights: Digital Marketing Agency Market ($8.27B in 2026, CAGR 14.32%)
-- Fortune Business Insights: Digital Accessibility Software Market ($850M in 2025, CAGR 9.33%)
-- Mordor Intelligence: Web Design Market, Digital Accessibility Software Market
-- Straits Research: Digital Accessibility Market ($1.42B in 2025)
+- Mordor Intelligence: Global Marketing Agencies Market ($473.6B in 2026, CAGR 4.55%)
+
+### Accessibility & Design Market Data
+- Fortune Business Insights: Digital Accessibility Software Market ($850M in 2025, $930M in 2026, CAGR 9.33%)
+- Mordor Intelligence: Web Design Market, Digital Accessibility Software Market ($800M in 2025, CAGR 6.31%)
+- Straits Research: Digital Accessibility Market ($1.42B in 2025, $1.75B in 2026, CAGR 8.6%)
 - Grand View Research: Digital Accessibility Software ($721M in 2023, CAGR 9.2%)
 - Global Growth Insights: Web Accessibility Evaluation Tools ($474M in 2025, CAGR 6.9%)
 - SkyQuest: Web Design Market ($61.23B in 2025, CAGR 8.5%)
-- US Bureau of Labor Statistics: Web Designers Employment Data (222,600)
-- Semrush Investor Relations: Q3 2025 Financial Results ($455.4M ARR)
-- Getlatka: Ahrefs Revenue Data ($149.1M in 2024)
+- Verified Market Research: Digital Accessibility Software ($549M in 2024, CAGR 5.99%)
+
+### Comparable Company Financials
+- Semrush Investor Relations: Q3 2025 Financial Results ($455.4M ARR, ~114,000 paying customers, $4,000 ACV, Adobe acquisition pending)
+- Semrush Investor Relations: Q1 2025 Financial Results ($424M ARR, 22% YoY revenue growth)
+- Getlatka / Fuel Finance: Ahrefs Revenue Data ($149.1M in 2024, ~$150M ARR, bootstrapped)
 - Getlatka / Built to Sell: Hotjar Revenue ($40M ARR pre-acquisition 2021)
-- Monetizely: SaaS Pricing Benchmark Study 2025
-- SaaS Price Pulse: State of SaaS Pricing Q1 2026 (73% raised prices, 14.2% avg increase)
-- Zylo: 2026 SaaS Management Index ($55.7M avg org spend)
+
+### Labor & Freelance Market Data
+- US Bureau of Labor Statistics: Web Designers Employment Data (222,600)
 - Mordor Intelligence: Freelance Platforms Market ($7.65B in 2025, CAGR 16.66%)
+
+### SaaS Industry Benchmarks
+- Monetizely: SaaS Pricing Benchmark Study 2025; Economics of AI-First B2B SaaS 2026
+- SaaS Price Pulse: State of SaaS Pricing Q1 2026 (73% raised prices, 14.2% avg increase)
+- Zylo: 2026 SaaS Management Index ($52M avg enterprise SaaS spend, 75% AI-native app spending growth)
+- McKinsey: 2026 Software Pricing Report (62% of SaaS platforms introduced AI-premium tiers)
 - Mordor Intelligence: B2B SaaS Market ($390B in 2025, CAGR 26.24%)
+- SaaStr: The Great SaaS Price Surge of 2025 (comprehensive pricing analysis)
+
+### Regulatory & Compliance
+- European Commission / AccessibleEU: European Accessibility Act enforcement (June 28, 2025)
+- Level Access: EAA Compliance Requirements and Key Steps
+- Deque: European Accessibility Act Top 20 Key Questions
 - TestParty: Digital Accessibility Software Market Analysis 2026
+- Eurostat: EU disability statistics (101M people, 1 in 4 over age 16)
+
+### Design Tool Landscape
+- Codrops: 12 Top Web Design Tools and Resources for 2026
+- IJCSE: Integrated Qualitative and Quantitative Analysis Module (QQAM) for Web Design Quality Evaluation
 
 ---
 
