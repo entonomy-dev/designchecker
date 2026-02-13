@@ -135,10 +135,11 @@ These tools provide behavioral analytics, user session recordings, heatmaps, and
 **Pricing:**
 | Plan | Price | Details |
 |------|-------|---------|
-| Pro | $139.95/mo | 5 projects, 500 keywords, 100K pages/audit |
-| Guru | $249.95/mo | 15 projects, content marketing tools |
-| Business | $499.95/mo | 40 projects, API access, enterprise features |
-| Semrush One | $165.17/mo+ | New combined SEO + AI Visibility |
+| Pro | $139.95/mo ($117.33/mo annual) | 5 projects, 500 keywords, 100K pages/audit |
+| Guru | $249.95/mo ($208.33/mo annual) | 15 projects, 1,500 keywords, 300K pages, content tools |
+| Business | $499.95/mo ($416.66/mo annual) | 40 projects, 5,000 keywords, 1M pages, API access |
+| Semrush One | $165.17/mo+ | New combined SEO + AI Visibility (announced Oct 2025) |
+| AI Visibility Toolkit | $99/mo add-on | 1 domain + 25 daily prompts tracking |
 
 **Strengths:**
 - Comprehensive all-in-one digital marketing suite
@@ -200,7 +201,7 @@ These tools provide behavioral analytics, user session recordings, heatmaps, and
 | Plan | Price | Details |
 |------|-------|---------|
 | Free | $0 | Limited to 500 URLs |
-| Licensed | $259/year per user | Unlimited URLs, advanced features |
+| Licensed | $279/year per user (£199/€245) | Unlimited URLs, advanced features (price adjusted May 2025) |
 | Bulk (5+) | Discounted | Volume discounts available |
 
 **Strengths:**
@@ -218,7 +219,7 @@ These tools provide behavioral analytics, user session recordings, heatmaps, and
 - Limited collaboration features
 - Per-user licensing can be expensive for teams
 
-**Market Position:** Dominant technical SEO crawling tool. Nearly every SEO professional has used it. The $259/year price point offers excellent value.
+**Market Position:** Dominant technical SEO crawling tool. Nearly every SEO professional has used it. The $279/year price point (adjusted May 2025 for currency movements) offers excellent value. Only two price increases in 15 years since launch in 2010.
 
 ---
 
@@ -262,8 +263,9 @@ These tools provide behavioral analytics, user session recordings, heatmaps, and
 **Pricing:**
 | Plan | Price | Details |
 |------|-------|---------|
-| All Plans | Custom | Enterprise sales model |
-| Estimated Range | $400-2,000+/mo | Based on site size and modules |
+| All Plans | Custom | Enterprise sales model, annual contracts |
+| Estimated Range | $15,000-63,000/yr | Average ~$28,000/yr per Vendr data; max ~$63K |
+| Packages | Inclusivity, Content Experience, Marketing Performance | Three solution bundles |
 
 **Strengths:**
 - Most comprehensive quality management platform

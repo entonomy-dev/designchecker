@@ -8,7 +8,7 @@
 
 ## Executive Summary
 
-DesignChecker, a web design evaluation and quality assurance tool, operates in a rapidly growing market at the intersection of web design services ($61+ billion in 2025), digital accessibility software ($850 million in 2025), and web performance monitoring. This research identifies 10 distinct customer segments that represent viable targets for DesignChecker's web design evaluation platform. Through analysis of industry data, competitor customer bases, agency directories, and community forums, we have mapped each segment's size, willingness to pay, pain points, and strategic fit.
+DesignChecker, a web design evaluation and quality assurance tool, operates in a rapidly growing market at the intersection of web design services ($55-60 billion in 2025, projected to reach $60-66 billion in 2026 per SkyQuest and Global Growth Insights), digital accessibility software ($800 million-$1.4 billion in 2025 per Mordor Intelligence and TestParty), and web performance monitoring. The broader global marketing agencies market approaches $474 billion in 2026 (Mordor Intelligence), with over 60,000 digital advertising agency businesses in the US alone (IBISWorld 2025). This research identifies 10 distinct customer segments that represent viable targets for DesignChecker's web design evaluation platform. Through analysis of industry data, competitor customer bases, agency directories, and community forums, we have mapped each segment's size, willingness to pay, pain points, and strategic fit.
 
 Our analysis recommends **Segment 1: Mid-Size Digital Agencies (10-50 employees)** as the beachhead market due to a combination of acute pain points, strong willingness to pay, accessible decision-making structures, and a total addressable market of approximately $480 million in the United States alone. Secondary priority segments include freelance web designers/developers and enterprise marketing teams.
 
@@ -37,10 +37,12 @@ This research was conducted using the following approaches:
 **Description:** Full-service digital agencies offering web design, development, and digital marketing services to business clients. These agencies handle multiple concurrent projects and need standardized quality assurance processes.
 
 **Market Size:**
-- Approximately 16,200 agencies in the United States fall within the 10-50 employee range (27% of ~60,000 digital advertising agencies per IBISWorld 2025 data)
+- Approximately 16,200 agencies in the United States fall within the 10-50 employee range (27% of ~60,053 digital advertising agencies per IBISWorld 2025 data)
 - The 11-50 FTE cohort has grown from 21% of the market in 2018 to 27% in 2023, representing the fastest-growing size category
-- Average annual growth rate of 12-15% for studios in this size range
+- The number of digital agencies in the US has grown 54% from 2018 to 2023 (Promethean Research), with agency count CAGR of 12.6% between 2020 and 2025
+- Average annual growth rate of 12-15% for studios in this size range, with participants earning an average net margin of 15%
 - Estimated 40,000-50,000 agencies in this range globally when including Europe, UK, Australia, and Canada
+- The US marketing agencies market is valued at $182.49 billion in 2025, forecast to reach $238.85 billion by 2030 (Mordor Intelligence)
 
 **TAM Estimate:** At an average annual subscription of $3,000-$10,000 per agency (team plan pricing), the US TAM for this segment is approximately $48-162 million. Global TAM: $120-500 million.
 
@@ -341,7 +343,7 @@ Enterprise teams represent the largest TAM but require longer sales cycles, ente
 
 ## Conclusion
 
-The web design evaluation market is positioned at a high-growth intersection of web design services, digital accessibility compliance, and quality assurance tooling. With the global web design market exceeding $61 billion, digital accessibility software growing at 9%+ CAGR, and regulatory pressures intensifying through the European Accessibility Act and WCAG 3.0, demand for automated design evaluation tools will continue to accelerate.
+The web design evaluation market is positioned at a high-growth intersection of web design services, digital accessibility compliance, and quality assurance tooling. With the global web design market valued at $55-60 billion in 2025 and projected to reach $60-66 billion in 2026 (growing at 8.5-10.7% CAGR), digital accessibility software growing at 6-11% CAGR to $0.93-1.75 billion by 2026, and the European Accessibility Act now in full effect since June 2025, demand for automated design evaluation tools will continue to accelerate. The broader digital transformation spending is projected to reach $3.4 trillion by 2026, and 73% of agency executives identify AI-personalization as the most important trend affecting the sector (Michele Majidi survey, February 2025).
 
 DesignChecker's opportunity is to become the standard design quality evaluation platform, starting with mid-size digital agencies where pain points are most acute and willingness to pay is high, then expanding into enterprise and platform segments as the product matures. The 10 segments identified in this research collectively represent a multi-billion dollar total addressable market with strong secular growth drivers.
 

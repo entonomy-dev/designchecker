@@ -551,6 +551,130 @@ const agencies: Agency[] = [
   },
   {
     id: 15,
+    name: "WebFX",
+    founded: 1996,
+    headquarters: "Harrisburg, Pennsylvania",
+    employees: "500+",
+    employeeRange: [500, 600],
+    website: "webfx.com",
+    services: [
+      "Web Design",
+      "SEO",
+      "PPC",
+      "Content Marketing",
+      "Social Media",
+      "Email Marketing",
+      "Marketing Automation",
+    ],
+    industries: ["B2B", "Healthcare", "Manufacturing", "Retail", "Education", "Finance", "Real Estate"],
+    notableClients: ["Caterpillar", "Verizon", "Hilton", "Auntie Anne's", "Subway", "Wrangler"],
+    hourlyRate: "$100-$149/hr",
+    projectBudget: "$10,000-$200,000+",
+    annualRevenue: "$100M+",
+    clutchRating: 4.9,
+    description:
+      "Full-service digital marketing agency with 25+ years of experience and a team of 500+ experts. Known for proprietary MarketingCloudFX technology platform. Top-ranked on Clutch.co for February 2026. Combines strategic expertise with marketing technology to deliver measurable results for mid-market and enterprise clients.",
+    specialization: "Full-Service Digital Marketing with Proprietary Technology",
+    decisionMakers: ["CEO (Bill Craig)", "VP of Marketing Operations", "VP of Client Services"],
+    toolStack: ["MarketingCloudFX", "WordPress", "Google Ads", "HubSpot", "Salesforce", "Semrush"],
+    painPoints: [
+      "Maintaining design quality across 500+ team members and hundreds of concurrent projects",
+      "Standardizing web design evaluation at enterprise scale",
+      "Ensuring consistent client deliverable quality across diverse industries",
+    ],
+    designCheckerFit: "High",
+    fitReason:
+      "Massive agency with very high project volume. Automated design QA would yield significant ROI through time savings and quality consistency at scale. Top Clutch-ranked for 2026.",
+  },
+  {
+    id: 16,
+    name: "Disruptive Advertising",
+    founded: 2013,
+    headquarters: "Pleasant Grove, Utah",
+    employees: "51-200",
+    employeeRange: [51, 200],
+    website: "disruptiveadvertising.com",
+    services: ["PPC Management", "Social Media Ads", "CRO", "Landing Page Design", "SEO", "Analytics"],
+    industries: ["SaaS", "eCommerce", "Lead Generation", "B2B", "Healthcare", "Legal"],
+    notableClients: ["Adobe", "ConocoPhillips", "Guitar Center", "Litter-Robot"],
+    hourlyRate: "$100-$149/hr",
+    projectBudget: "$5,000-$100,000+",
+    annualRevenue: "Not disclosed",
+    clutchRating: 4.8,
+    description:
+      "Performance marketing agency laser-focused on turning advertising spend into predictable, scalable revenue. Known for a data-driven approach with deep expertise in paid search, paid social, and conversion rate optimization. Ranked among top digital marketing agencies in Clutch.co 2026 rankings.",
+    specialization: "Performance Marketing & CRO",
+    decisionMakers: ["CEO", "VP of Strategy", "Director of Client Services"],
+    toolStack: ["Google Ads", "Meta Ads", "Google Analytics", "Unbounce", "VWO", "Custom Dashboards"],
+    painPoints: [
+      "Landing page design quality directly impacts ad conversion rates",
+      "Rapid A/B test design iterations need quality consistency",
+      "Scaling design review across 50-200 person team",
+    ],
+    designCheckerFit: "Medium",
+    fitReason:
+      "Performance-focused agency where landing page design quality directly impacts ROAS. Automated design scoring could enhance their data-driven optimization approach.",
+  },
+  {
+    id: 17,
+    name: "Ignite Visibility",
+    founded: 2013,
+    headquarters: "San Diego, California",
+    employees: "100-150",
+    employeeRange: [100, 150],
+    website: "ignitevisibility.com",
+    services: ["SEO", "PPC", "Social Media", "Email Marketing", "CRO", "Web Design", "Amazon Marketing"],
+    industries: ["eCommerce", "Healthcare", "Finance", "Education", "B2B SaaS", "Retail"],
+    notableClients: ["Tony Robbins", "The Knot Worldwide", "National Funding", "5-Hour Energy"],
+    hourlyRate: "$100-$149/hr",
+    projectBudget: "$10,000-$100,000+",
+    annualRevenue: "Not disclosed",
+    clutchRating: 4.9,
+    description:
+      "Award-winning digital marketing agency consistently ranked among top agencies on Clutch.co. Known for exceptional communication and client management with over 90% positive Clutch reviews. Specializes in integrated digital strategies combining SEO, paid media, and conversion optimization.",
+    specialization: "Integrated Digital Marketing & SEO",
+    decisionMakers: ["CEO (John Lincoln)", "VP of Operations", "Director of Strategy"],
+    toolStack: ["Semrush", "Google Ads", "Salesforce", "WordPress", "Shopify", "Custom Analytics"],
+    painPoints: [
+      "Web design quality consistency across integrated campaigns",
+      "Ensuring design standards for high-profile client websites",
+      "Scaling QA across 100+ person team with diverse project types",
+    ],
+    designCheckerFit: "High",
+    fitReason:
+      "Top Clutch-ranked agency with 100+ employees where web design is increasingly central to their integrated service offering. Automated design evaluation would complement their data-driven approach.",
+  },
+  {
+    id: 18,
+    name: "Silverback Strategies",
+    founded: 2007,
+    headquarters: "Arlington, Virginia",
+    employees: "50-100",
+    employeeRange: [50, 100],
+    website: "silverbackstrategies.com",
+    services: ["SEO", "PPC", "Content Marketing", "Analytics", "Web Design", "Social Media", "CRO"],
+    industries: ["B2B", "Healthcare", "Finance", "SaaS", "Education", "Retail"],
+    notableClients: ["Aruba Networks", "Mitel", "Cvent", "Vonage"],
+    hourlyRate: "$150-$199/hr",
+    projectBudget: "$10,000-$75,000",
+    annualRevenue: "Not disclosed",
+    clutchRating: 4.8,
+    description:
+      "Award-winning performance marketing agency known for blending creative energy with data-driven rigor. Recognized by Inc. 5000, Clutch, and The Washington Post's Top Workplaces. Helps brands grow with integrated strategies across SEO, paid media, content, and analytics.",
+    specialization: "Performance Marketing & Data-Driven Growth",
+    decisionMakers: ["CEO", "VP of Strategy", "Director of Analytics"],
+    toolStack: ["Google Analytics", "Semrush", "Google Ads", "Salesforce", "HubSpot", "WordPress"],
+    painPoints: [
+      "Ensuring design quality in performance-driven landing pages",
+      "Maintaining brand consistency across multiple client campaigns",
+      "Scaling creative QA as the team grows",
+    ],
+    designCheckerFit: "Medium",
+    fitReason:
+      "Performance-focused agency where landing page and web design quality directly impacts campaign effectiveness. Automated design evaluation would enhance their data-driven optimization approach.",
+  },
+  {
+    id: 19,
     name: "Baunfire",
     founded: 2009,
     headquarters: "San Jose, California",
@@ -1220,8 +1344,8 @@ export default function AgencyProfiles() {
             </div>
           </div>
           <p style={{ fontSize: 12, color: "#94a3b8", marginTop: 20, marginBottom: 0 }}>
-            Last updated: February 13, 2026. Data sourced from Clutch.co, DesignRush, Digital Agency Network, ZoomInfo,
-            LinkedIn, Agency Spotter, and individual agency websites. All information is based on publicly available data.
+            Last updated: February 13, 2026. Data sourced from Clutch.co (Feb 2026 rankings), DesignRush, Digital Agency Network, ZoomInfo,
+            LinkedIn, Agency Spotter, Semrush Agency Directory, and individual agency websites. All information is based on publicly available data. Includes agencies from Clutch.co&apos;s top-ranked digital marketing companies for February 2026.
           </p>
         </div>
       </div>
