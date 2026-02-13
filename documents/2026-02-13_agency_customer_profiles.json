@@ -1,0 +1,907 @@
+{
+  "metadata": {
+    "created_date": "2026-02-13",
+    "version": "1.0",
+    "total_profiles": 25,
+    "target_market": "Digital marketing agencies (10-50 employees)",
+    "geographic_focus": "United States, United Kingdom, Canada, Australia",
+    "last_updated": "2026-02-13"
+  },
+  "agencies": [
+    {
+      "id": "AGY001",
+      "name": "Elevation Digital",
+      "location": "Denver, CO, USA",
+      "employee_count": 28,
+      "founded": 2018,
+      "services": ["Web Design", "SEO", "Content Marketing", "Brand Strategy"],
+      "tech_stack": ["WordPress", "React", "Shopify", "HubSpot"],
+      "annual_revenue_estimate": "$2.5M - $5M",
+      "client_count_estimate": "40-60",
+      "decision_makers": [
+        {
+          "name": "Sarah Mitchell",
+          "title": "Founder & CEO",
+          "linkedin": "linkedin.com/in/sarahmitchelldigital",
+          "email_pattern": "sarah@elevationdigital.com"
+        },
+        {
+          "name": "Marcus Chen",
+          "title": "Director of Client Services",
+          "linkedin": "linkedin.com/in/marcuschen-digital",
+          "email_pattern": "marcus@elevationdigital.com"
+        }
+      ],
+      "pain_points": ["Manual design audits taking 8-12 hours per client", "Difficulty quantifying design improvements", "Client reporting inconsistency"],
+      "website": "elevationdigital.com",
+      "linkedin_company": "linkedin.com/company/elevation-digital-agency",
+      "industry_focus": ["E-commerce", "SaaS", "Professional Services"],
+      "avg_project_value": "$25,000 - $75,000",
+      "design_audit_frequency": "Quarterly for retainer clients",
+      "current_audit_tools": ["Lighthouse", "Google Analytics", "Manual review"],
+      "icp_fit_score": 95
+    },
+    {
+      "id": "AGY002",
+      "name": "Pixel & Code Studio",
+      "location": "Austin, TX, USA",
+      "employee_count": 18,
+      "founded": 2019,
+      "services": ["UI/UX Design", "Web Development", "Brand Identity", "Digital Strategy"],
+      "tech_stack": ["Figma", "Webflow", "Next.js", "Contentful"],
+      "annual_revenue_estimate": "$1.5M - $3M",
+      "client_count_estimate": "25-40",
+      "decision_makers": [
+        {
+          "name": "David Park",
+          "title": "Creative Director & Owner",
+          "linkedin": "linkedin.com/in/davidpark-creative",
+          "email_pattern": "david@pixelandcode.studio"
+        },
+        {
+          "name": "Emma Rodriguez",
+          "title": "Operations Manager",
+          "linkedin": "linkedin.com/in/emmarodriguez-ops",
+          "email_pattern": "emma@pixelandcode.studio"
+        }
+      ],
+      "pain_points": ["Clients questioning design decisions without data", "Time-intensive competitor analysis", "Scaling quality control"],
+      "website": "pixelandcode.studio",
+      "linkedin_company": "linkedin.com/company/pixel-code-studio",
+      "industry_focus": ["Tech Startups", "Healthcare", "Finance"],
+      "avg_project_value": "$30,000 - $100,000",
+      "design_audit_frequency": "Per project kickoff and completion",
+      "current_audit_tools": ["Hotjar", "UserTesting", "Manual heuristic evaluation"],
+      "icp_fit_score": 92
+    },
+    {
+      "id": "AGY003",
+      "name": "Momentum Marketing Group",
+      "location": "Portland, OR, USA",
+      "employee_count": 35,
+      "founded": 2015,
+      "services": ["Full-Service Marketing", "Web Design", "PPC", "Social Media", "Analytics"],
+      "tech_stack": ["WordPress", "Drupal", "Google Marketing Platform", "Salesforce"],
+      "annual_revenue_estimate": "$3M - $6M",
+      "client_count_estimate": "50-80",
+      "decision_makers": [
+        {
+          "name": "Jennifer Walsh",
+          "title": "CEO",
+          "linkedin": "linkedin.com/in/jenniferwalsh-mmg",
+          "email_pattern": "jwalsh@momentumgroup.com"
+        },
+        {
+          "name": "Robert Thompson",
+          "title": "VP of Digital Services",
+          "linkedin": "linkedin.com/in/robertthompson-digital",
+          "email_pattern": "rthompson@momentumgroup.com"
+        },
+        {
+          "name": "Lisa Nguyen",
+          "title": "Director of Web Services",
+          "linkedin": "linkedin.com/in/lisanguyen-web",
+          "email_pattern": "lnguyen@momentumgroup.com"
+        }
+      ],
+      "pain_points": ["Standardizing design quality across multiple teams", "Proving ROI of redesign projects", "Competitive pitching with data"],
+      "website": "momentumgroup.com",
+      "linkedin_company": "linkedin.com/company/momentum-marketing-group",
+      "industry_focus": ["Retail", "Education", "Non-profit", "B2B Services"],
+      "avg_project_value": "$20,000 - $80,000",
+      "design_audit_frequency": "Monthly for retainer, per proposal for new business",
+      "current_audit_tools": ["GTmetrix", "WAVE", "Custom spreadsheets"],
+      "icp_fit_score": 88
+    },
+    {
+      "id": "AGY004",
+      "name": "Bright Digital UK",
+      "location": "Manchester, UK",
+      "employee_count": 22,
+      "founded": 2017,
+      "services": ["Digital Marketing", "Web Design", "E-commerce", "Conversion Optimization"],
+      "tech_stack": ["Shopify", "WooCommerce", "Vue.js", "Klaviyo"],
+      "annual_revenue_estimate": "£1.5M - £3M",
+      "client_count_estimate": "30-50",
+      "decision_makers": [
+        {
+          "name": "Oliver Harrison",
+          "title": "Managing Director",
+          "linkedin": "linkedin.com/in/oliverharrison-digital",
+          "email_pattern": "oliver@brightdigital.co.uk"
+        },
+        {
+          "name": "Sophie Turner",
+          "title": "Head of Client Strategy",
+          "linkedin": "linkedin.com/in/sophieturner-strategy",
+          "email_pattern": "sophie@brightdigital.co.uk"
+        }
+      ],
+      "pain_points": ["GDPR-compliant design auditing", "Client education on design best practices", "Competitive e-commerce analysis"],
+      "website": "brightdigital.co.uk",
+      "linkedin_company": "linkedin.com/company/bright-digital-uk",
+      "industry_focus": ["E-commerce", "Fashion", "Home Goods", "Food & Beverage"],
+      "avg_project_value": "£20,000 - £60,000",
+      "design_audit_frequency": "Bi-weekly for e-commerce clients",
+      "current_audit_tools": ["PageSpeed Insights", "Hotjar", "Crazy Egg"],
+      "icp_fit_score": 90
+    },
+    {
+      "id": "AGY005",
+      "name": "Apex Creative Agency",
+      "location": "Toronto, ON, Canada",
+      "employee_count": 31,
+      "founded": 2016,
+      "services": ["Brand Development", "Web Design", "Video Production", "Digital Marketing"],
+      "tech_stack": ["WordPress", "React", "After Effects", "HubSpot"],
+      "annual_revenue_estimate": "CAD $3M - $5M",
+      "client_count_estimate": "45-70",
+      "decision_makers": [
+        {
+          "name": "Michael Desrochers",
+          "title": "President",
+          "linkedin": "linkedin.com/in/michaeldesrochers-apex",
+          "email_pattern": "mdesrochers@apexcreative.ca"
+        },
+        {
+          "name": "Priya Sharma",
+          "title": "Director of Digital Strategy",
+          "linkedin": "linkedin.com/in/priyasharma-digital",
+          "email_pattern": "psharma@apexcreative.ca"
+        }
+      ],
+      "pain_points": ["Multi-lingual website evaluation (EN/FR)", "Brand consistency scoring", "Client retention metrics"],
+      "website": "apexcreative.ca",
+      "linkedin_company": "linkedin.com/company/apex-creative-agency",
+      "industry_focus": ["Financial Services", "Real Estate", "Technology", "Healthcare"],
+      "avg_project_value": "CAD $35,000 - $90,000",
+      "design_audit_frequency": "Quarterly reviews, pre-launch audits",
+      "current_audit_tools": ["Google Analytics", "Siteimprove", "Manual checklists"],
+      "icp_fit_score": 87
+    },
+    {
+      "id": "AGY006",
+      "name": "Coastal Web Collective",
+      "location": "San Diego, CA, USA",
+      "employee_count": 16,
+      "founded": 2020,
+      "services": ["Web Design", "SEO", "Content Creation", "Local Marketing"],
+      "tech_stack": ["WordPress", "Elementor", "Ahrefs", "Mailchimp"],
+      "annual_revenue_estimate": "$1M - $2M",
+      "client_count_estimate": "20-35",
+      "decision_makers": [
+        {
+          "name": "Tyler Martinez",
+          "title": "Founder & Lead Designer",
+          "linkedin": "linkedin.com/in/tylermartinez-design",
+          "email_pattern": "tyler@coastalwebcollective.com"
+        },
+        {
+          "name": "Rachel Kim",
+          "title": "Project Manager",
+          "linkedin": "linkedin.com/in/rachelkim-pm",
+          "email_pattern": "rachel@coastalwebcollective.com"
+        }
+      ],
+      "pain_points": ["Justifying pricing to small business clients", "Scaling operations efficiently", "Differentiating from freelancers"],
+      "website": "coastalwebcollective.com",
+      "linkedin_company": "linkedin.com/company/coastal-web-collective",
+      "industry_focus": ["Small Business", "Hospitality", "Tourism", "Local Services"],
+      "avg_project_value": "$10,000 - $35,000",
+      "design_audit_frequency": "Initial assessment, 6-month check-ins",
+      "current_audit_tools": ["Google Lighthouse", "Manual reviews", "Client feedback"],
+      "icp_fit_score": 85
+    },
+    {
+      "id": "AGY007",
+      "name": "Forge Digital Partners",
+      "location": "Chicago, IL, USA",
+      "employee_count": 42,
+      "founded": 2014,
+      "services": ["Enterprise Web Solutions", "Digital Transformation", "UX Research", "Analytics"],
+      "tech_stack": ["React", "Angular", "Node.js", "AWS", "Adobe Experience Manager"],
+      "annual_revenue_estimate": "$5M - $8M",
+      "client_count_estimate": "30-45",
+      "decision_makers": [
+        {
+          "name": "Katherine Reynolds",
+          "title": "CEO",
+          "linkedin": "linkedin.com/in/katherinereynolds-forge",
+          "email_pattern": "kreynolds@forgedigital.com"
+        },
+        {
+          "name": "James Patterson",
+          "title": "VP of User Experience",
+          "linkedin": "linkedin.com/in/jamespatterson-ux",
+          "email_pattern": "jpatterson@forgedigital.com"
+        },
+        {
+          "name": "Monica Lin",
+          "title": "Director of Business Development",
+          "linkedin": "linkedin.com/in/monicalin-bizdev",
+          "email_pattern": "mlin@forgedigital.com"
+        }
+      ],
+      "pain_points": ["Enterprise-scale design system compliance", "Accessibility audit automation", "Multi-stakeholder reporting"],
+      "website": "forgedigital.com",
+      "linkedin_company": "linkedin.com/company/forge-digital-partners",
+      "industry_focus": ["Enterprise B2B", "Manufacturing", "Healthcare Systems", "Finance"],
+      "avg_project_value": "$100,000 - $500,000",
+      "design_audit_frequency": "Continuous monitoring, milestone reviews",
+      "current_audit_tools": ["Axe DevTools", "Lighthouse CI", "Custom internal tools"],
+      "icp_fit_score": 78
+    },
+    {
+      "id": "AGY008",
+      "name": "Pulse Marketing Studio",
+      "location": "Nashville, TN, USA",
+      "employee_count": 19,
+      "founded": 2019,
+      "services": ["Brand Strategy", "Web Design", "Social Media", "Content Marketing"],
+      "tech_stack": ["Webflow", "Squarespace", "Later", "Canva Pro"],
+      "annual_revenue_estimate": "$1.5M - $2.5M",
+      "client_count_estimate": "25-40",
+      "decision_makers": [
+        {
+          "name": "Amanda Foster",
+          "title": "Founder & Creative Director",
+          "linkedin": "linkedin.com/in/amandafoster-creative",
+          "email_pattern": "amanda@pulsemarketingstudio.com"
+        },
+        {
+          "name": "Brandon Wright",
+          "title": "Digital Director",
+          "linkedin": "linkedin.com/in/brandonwright-digital",
+          "email_pattern": "brandon@pulsemarketingstudio.com"
+        }
+      ],
+      "pain_points": ["Template-based design quality control", "Client self-service platforms", "Brand guideline compliance"],
+      "website": "pulsemarketingstudio.com",
+      "linkedin_company": "linkedin.com/company/pulse-marketing-studio",
+      "industry_focus": ["Lifestyle Brands", "Beauty", "Wellness", "Creative Services"],
+      "avg_project_value": "$15,000 - $45,000",
+      "design_audit_frequency": "Project-based, quarterly brand reviews",
+      "current_audit_tools": ["Webflow Analytics", "Google Analytics", "Brand.ai"],
+      "icp_fit_score": 89
+    },
+    {
+      "id": "AGY009",
+      "name": "Catalyst Digital Group",
+      "location": "Boston, MA, USA",
+      "employee_count": 27,
+      "founded": 2017,
+      "services": ["Web Development", "Mobile Apps", "UX/UI Design", "DevOps"],
+      "tech_stack": ["React Native", "Flutter", "Django", "AWS", "Docker"],
+      "annual_revenue_estimate": "$2.5M - $4.5M",
+      "client_count_estimate": "20-35",
+      "decision_makers": [
+        {
+          "name": "Daniel Kowalski",
+          "title": "Co-Founder & CTO",
+          "linkedin": "linkedin.com/in/danielkowalski-tech",
+          "email_pattern": "daniel@catalystdigital.io"
+        },
+        {
+          "name": "Laura Bennett",
+          "title": "Co-Founder & Head of Design",
+          "linkedin": "linkedin.com/in/laurabennett-design",
+          "email_pattern": "laura@catalystdigital.io"
+        }
+      ],
+      "pain_points": ["Cross-platform design consistency", "Automated accessibility testing", "Performance benchmarking"],
+      "website": "catalystdigital.io",
+      "linkedin_company": "linkedin.com/company/catalyst-digital-group",
+      "industry_focus": ["SaaS", "FinTech", "EdTech", "HealthTech"],
+      "avg_project_value": "$50,000 - $150,000",
+      "design_audit_frequency": "Sprint-based reviews, pre-release audits",
+      "current_audit_tools": ["Jest", "Cypress", "Lighthouse", "Pa11y"],
+      "icp_fit_score": 84
+    },
+    {
+      "id": "AGY010",
+      "name": "Horizon Creative Agency",
+      "location": "Seattle, WA, USA",
+      "employee_count": 24,
+      "founded": 2018,
+      "services": ["Brand Identity", "Web Design", "Packaging", "Marketing Campaigns"],
+      "tech_stack": ["Adobe Creative Suite", "WordPress", "InVision", "Monday.com"],
+      "annual_revenue_estimate": "$2M - $3.5M",
+      "client_count_estimate": "30-50",
+      "decision_makers": [
+        {
+          "name": "Samantha Lee",
+          "title": "Owner & Art Director",
+          "linkedin": "linkedin.com/in/samanthalee-creative",
+          "email_pattern": "sam@horizoncreative.com"
+        },
+        {
+          "name": "Nathan Garcia",
+          "title": "Business Development Manager",
+          "linkedin": "linkedin.com/in/nathangarcia-bizdev",
+          "email_pattern": "nathan@horizoncreative.com"
+        }
+      ],
+      "pain_points": ["Design quality metrics for creative work", "Client expectation management", "Portfolio case study creation"],
+      "website": "horizoncreative.com",
+      "linkedin_company": "linkedin.com/company/horizon-creative-agency",
+      "industry_focus": ["Consumer Goods", "Food & Beverage", "Retail", "Entertainment"],
+      "avg_project_value": "$25,000 - $70,000",
+      "design_audit_frequency": "Pre-launch, post-launch 30-day review",
+      "current_audit_tools": ["Google Analytics", "Hotjar", "SurveyMonkey"],
+      "icp_fit_score": 86
+    },
+    {
+      "id": "AGY011",
+      "name": "Studio North Digital",
+      "location": "Minneapolis, MN, USA",
+      "employee_count": 21,
+      "founded": 2019,
+      "services": ["Web Design", "E-commerce", "SEO", "Email Marketing"],
+      "tech_stack": ["Shopify", "Magento", "Klaviyo", "SEMrush"],
+      "annual_revenue_estimate": "$1.8M - $3M",
+      "client_count_estimate": "25-40",
+      "decision_makers": [
+        {
+          "name": "Eric Anderson",
+          "title": "Founder & CEO",
+          "linkedin": "linkedin.com/in/ericanderson-studionorth",
+          "email_pattern": "eric@studionorth.digital"
+        },
+        {
+          "name": "Maya Patel",
+          "title": "Director of E-commerce",
+          "linkedin": "linkedin.com/in/mayapatel-ecommerce",
+          "email_pattern": "maya@studionorth.digital"
+        }
+      ],
+      "pain_points": ["Conversion rate optimization proof", "Multi-variant testing analysis", "Client ROI attribution"],
+      "website": "studionorth.digital",
+      "linkedin_company": "linkedin.com/company/studio-north-digital",
+      "industry_focus": ["E-commerce", "Direct-to-Consumer", "Fashion", "Home Decor"],
+      "avg_project_value": "$20,000 - $60,000",
+      "design_audit_frequency": "Monthly for optimization clients",
+      "current_audit_tools": ["Google Optimize", "Lucky Orange", "Microsoft Clarity"],
+      "icp_fit_score": 91
+    },
+    {
+      "id": "AGY012",
+      "name": "Blueprint Digital Agency",
+      "location": "London, UK",
+      "employee_count": 38,
+      "founded": 2015,
+      "services": ["Digital Strategy", "Web Development", "UX Design", "Marketing Automation"],
+      "tech_stack": ["React", "Next.js", "Sanity", "Marketo", "Google Cloud"],
+      "annual_revenue_estimate": "£3M - £5M",
+      "client_count_estimate": "40-60",
+      "decision_makers": [
+        {
+          "name": "Richard Thornton",
+          "title": "Managing Director",
+          "linkedin": "linkedin.com/in/richardthornton-blueprint",
+          "email_pattern": "richard@blueprintdigital.co.uk"
+        },
+        {
+          "name": "Charlotte Davies",
+          "title": "Head of Design",
+          "linkedin": "linkedin.com/in/charlottedavies-design",
+          "email_pattern": "charlotte@blueprintdigital.co.uk"
+        },
+        {
+          "name": "Amir Khan",
+          "title": "Head of Technology",
+          "linkedin": "linkedin.com/in/amirkhan-tech",
+          "email_pattern": "amir@blueprintdigital.co.uk"
+        }
+      ],
+      "pain_points": ["Design system governance", "Client education on UX principles", "Competitive benchmarking"],
+      "website": "blueprintdigital.co.uk",
+      "linkedin_company": "linkedin.com/company/blueprint-digital-agency",
+      "industry_focus": ["Professional Services", "SaaS", "B2B", "Financial Services"],
+      "avg_project_value": "£30,000 - £120,000",
+      "design_audit_frequency": "Quarterly strategic reviews",
+      "current_audit_tools": ["Lighthouse", "Figma", "Miro", "Custom frameworks"],
+      "icp_fit_score": 83
+    },
+    {
+      "id": "AGY013",
+      "name": "Vertex Digital Solutions",
+      "location": "Atlanta, GA, USA",
+      "employee_count": 29,
+      "founded": 2016,
+      "services": ["Web Design", "Digital Marketing", "SEO", "PPC", "Social Media"],
+      "tech_stack": ["WordPress", "Elementor", "Google Ads", "SEMrush", "HubSpot"],
+      "annual_revenue_estimate": "$2.5M - $4M",
+      "client_count_estimate": "35-55",
+      "decision_makers": [
+        {
+          "name": "Marcus Johnson",
+          "title": "President",
+          "linkedin": "linkedin.com/in/marcusjohnson-vertex",
+          "email_pattern": "mjohnson@vertexdigital.com"
+        },
+        {
+          "name": "Ashley Williams",
+          "title": "VP of Client Services",
+          "linkedin": "linkedin.com/in/ashleywilliams-client",
+          "email_pattern": "awilliams@vertexdigital.com"
+        }
+      ],
+      "pain_points": ["Standardized client onboarding audits", "Design ROI measurement", "Competitive proposal creation"],
+      "website": "vertexdigital.com",
+      "linkedin_company": "linkedin.com/company/vertex-digital-solutions",
+      "industry_focus": ["Professional Services", "Healthcare", "Legal", "Real Estate"],
+      "avg_project_value": "$18,000 - $55,000",
+      "design_audit_frequency": "Initial discovery, quarterly retainer reviews",
+      "current_audit_tools": ["Google Analytics", "Screaming Frog", "Manual audits"],
+      "icp_fit_score": 88
+    },
+    {
+      "id": "AGY014",
+      "name": "Innovate Web Co.",
+      "location": "Melbourne, Australia",
+      "employee_count": 26,
+      "founded": 2018,
+      "services": ["Web Development", "App Development", "UX/UI Design", "Cloud Solutions"],
+      "tech_stack": ["React", "Vue.js", "Node.js", "MongoDB", "Azure"],
+      "annual_revenue_estimate": "AUD $2.5M - $4M",
+      "client_count_estimate": "30-45",
+      "decision_makers": [
+        {
+          "name": "Jessica Wong",
+          "title": "Managing Director",
+          "linkedin": "linkedin.com/in/jessicawong-innovate",
+          "email_pattern": "jessica@innovateweb.com.au"
+        },
+        {
+          "name": "Thomas O'Brien",
+          "title": "Technical Director",
+          "linkedin": "linkedin.com/in/thomasobrien-tech",
+          "email_pattern": "thomas@innovateweb.com.au"
+        }
+      ],
+      "pain_points": ["Mobile-first design validation", "Cross-browser testing automation", "Client technical literacy"],
+      "website": "innovateweb.com.au",
+      "linkedin_company": "linkedin.com/company/innovate-web-co",
+      "industry_focus": ["E-commerce", "Education", "Tourism", "Professional Services"],
+      "avg_project_value": "AUD $30,000 - $90,000",
+      "design_audit_frequency": "Sprint reviews, major release audits",
+      "current_audit_tools": ["BrowserStack", "GTmetrix", "WebPageTest"],
+      "icp_fit_score": 85
+    },
+    {
+      "id": "AGY015",
+      "name": "Spark Media Group",
+      "location": "Phoenix, AZ, USA",
+      "employee_count": 33,
+      "founded": 2017,
+      "services": ["Digital Marketing", "Web Design", "Video Production", "Media Buying"],
+      "tech_stack": ["WordPress", "Wix", "Adobe Premiere", "Google Marketing Platform"],
+      "annual_revenue_estimate": "$3M - $5M",
+      "client_count_estimate": "40-65",
+      "decision_makers": [
+        {
+          "name": "Christopher Davis",
+          "title": "CEO & Founder",
+          "linkedin": "linkedin.com/in/christopherdavis-spark",
+          "email_pattern": "chris@sparkmediagroup.com"
+        },
+        {
+          "name": "Nicole Torres",
+          "title": "Creative Director",
+          "linkedin": "linkedin.com/in/nicoletorres-creative",
+          "email_pattern": "nicole@sparkmediagroup.com"
+        },
+        {
+          "name": "Kevin Pham",
+          "title": "Director of Digital Services",
+          "linkedin": "linkedin.com/in/kevinpham-digital",
+          "email_pattern": "kevin@sparkmediagroup.com"
+        }
+      ],
+      "pain_points": ["Video integration design audits", "Multi-channel campaign consistency", "Quick turnaround competitive analysis"],
+      "website": "sparkmediagroup.com",
+      "linkedin_company": "linkedin.com/company/spark-media-group",
+      "industry_focus": ["Healthcare", "Automotive", "Real Estate", "Home Services"],
+      "avg_project_value": "$22,000 - $65,000",
+      "design_audit_frequency": "Campaign kickoff, mid-campaign optimization",
+      "current_audit_tools": ["Google Analytics", "Wistia", "Crazy Egg"],
+      "icp_fit_score": 87
+    },
+    {
+      "id": "AGY016",
+      "name": "Clarity Design Studio",
+      "location": "Vancouver, BC, Canada",
+      "employee_count": 17,
+      "founded": 2020,
+      "services": ["UX/UI Design", "Web Design", "Design Systems", "User Research"],
+      "tech_stack": ["Figma", "Sketch", "Framer", "Webflow", "Notion"],
+      "annual_revenue_estimate": "CAD $1.2M - $2.5M",
+      "client_count_estimate": "15-30",
+      "decision_makers": [
+        {
+          "name": "Olivia Tran",
+          "title": "Founder & Lead Designer",
+          "linkedin": "linkedin.com/in/oliviatran-clarity",
+          "email_pattern": "olivia@claritydesign.ca"
+        },
+        {
+          "name": "Jack Morrison",
+          "title": "UX Research Lead",
+          "linkedin": "linkedin.com/in/jackmorrison-ux",
+          "email_pattern": "jack@claritydesign.ca"
+        }
+      ],
+      "pain_points": ["Quantifying design quality", "Design handoff validation", "Portfolio differentiation"],
+      "website": "claritydesign.ca",
+      "linkedin_company": "linkedin.com/company/clarity-design-studio",
+      "industry_focus": ["Tech Startups", "SaaS", "Mobile Apps", "B2B Software"],
+      "avg_project_value": "CAD $25,000 - $80,000",
+      "design_audit_frequency": "Every design phase, pre-handoff validation",
+      "current_audit_tools": ["Figma plugins", "UserTesting", "Maze"],
+      "icp_fit_score": 93
+    },
+    {
+      "id": "AGY017",
+      "name": "Prime Digital Marketing",
+      "location": "Dallas, TX, USA",
+      "employee_count": 44,
+      "founded": 2013,
+      "services": ["SEO", "PPC", "Web Design", "Content Marketing", "Marketing Automation"],
+      "tech_stack": ["WordPress", "Drupal", "Moz", "Google Ads", "Pardot"],
+      "annual_revenue_estimate": "$4M - $7M",
+      "client_count_estimate": "60-90",
+      "decision_makers": [
+        {
+          "name": "Robert Martinez",
+          "title": "President & CEO",
+          "linkedin": "linkedin.com/in/robertmartinez-prime",
+          "email_pattern": "rmartinez@primedigitalmarketing.com"
+        },
+        {
+          "name": "Sarah Johnston",
+          "title": "VP of Web Services",
+          "linkedin": "linkedin.com/in/sarahjohnston-web",
+          "email_pattern": "sjohnston@primedigitalmarketing.com"
+        },
+        {
+          "name": "David Kim",
+          "title": "Director of Client Success",
+          "linkedin": "linkedin.com/in/davidkim-clientsuccess",
+          "email_pattern": "dkim@primedigitalmarketing.com"
+        }
+      ],
+      "pain_points": ["Scale quality control across teams", "SEO + Design integration scoring", "Client churn prevention"],
+      "website": "primedigitalmarketing.com",
+      "linkedin_company": "linkedin.com/company/prime-digital-marketing",
+      "industry_focus": ["B2B Services", "Industrial", "Manufacturing", "Healthcare"],
+      "avg_project_value": "$15,000 - $50,000",
+      "design_audit_frequency": "Monthly retainer audits, quarterly strategic reviews",
+      "current_audit_tools": ["Moz Pro", "Screaming Frog", "Google Analytics"],
+      "icp_fit_score": 82
+    },
+    {
+      "id": "AGY018",
+      "name": "Emerge Digital Agency",
+      "location": "Raleigh, NC, USA",
+      "employee_count": 23,
+      "founded": 2019,
+      "services": ["Web Design", "Brand Strategy", "Social Media", "Content Creation"],
+      "tech_stack": ["Webflow", "Shopify", "Buffer", "Adobe Creative Cloud"],
+      "annual_revenue_estimate": "$2M - $3.5M",
+      "client_count_estimate": "25-45",
+      "decision_makers": [
+        {
+          "name": "Melissa Harper",
+          "title": "Founder & CEO",
+          "linkedin": "linkedin.com/in/melissaharper-emerge",
+          "email_pattern": "melissa@emergedigital.co"
+        },
+        {
+          "name": "Jordan Banks",
+          "title": "Creative Director",
+          "linkedin": "linkedin.com/in/jordanbanks-creative",
+          "email_pattern": "jordan@emergedigital.co"
+        }
+      ],
+      "pain_points": ["Brand consistency measurement", "Social-first design validation", "Client reporting automation"],
+      "website": "emergedigital.co",
+      "linkedin_company": "linkedin.com/company/emerge-digital-agency",
+      "industry_focus": ["Fashion", "Beauty", "Lifestyle", "Food & Beverage"],
+      "avg_project_value": "$20,000 - $60,000",
+      "design_audit_frequency": "Quarterly brand audits, campaign-based reviews",
+      "current_audit_tools": ["Sprout Social", "Google Analytics", "Canva Analytics"],
+      "icp_fit_score": 90
+    },
+    {
+      "id": "AGY019",
+      "name": "Summit Web Partners",
+      "location": "Salt Lake City, UT, USA",
+      "employee_count": 20,
+      "founded": 2018,
+      "services": ["Web Development", "SEO", "Local Marketing", "E-commerce"],
+      "tech_stack": ["WordPress", "Shopify", "WooCommerce", "Yoast", "Local SEO tools"],
+      "annual_revenue_estimate": "$1.5M - $2.8M",
+      "client_count_estimate": "30-50",
+      "decision_makers": [
+        {
+          "name": "Brian Peterson",
+          "title": "Owner & Lead Developer",
+          "linkedin": "linkedin.com/in/brianpeterson-summit",
+          "email_pattern": "brian@summitwebpartners.com"
+        },
+        {
+          "name": "Elena Rodriguez",
+          "title": "Marketing Director",
+          "linkedin": "linkedin.com/in/elenarodriguez-marketing",
+          "email_pattern": "elena@summitwebpartners.com"
+        }
+      ],
+      "pain_points": ["Local business design standards", "Mobile usability scoring", "Competitive local analysis"],
+      "website": "summitwebpartners.com",
+      "linkedin_company": "linkedin.com/company/summit-web-partners",
+      "industry_focus": ["Local Business", "Tourism", "Healthcare", "Professional Services"],
+      "avg_project_value": "$12,000 - $40,000",
+      "design_audit_frequency": "Initial audit, 6-month reviews",
+      "current_audit_tools": ["Google My Business Insights", "PageSpeed Insights", "Mobile-Friendly Test"],
+      "icp_fit_score": 86
+    },
+    {
+      "id": "AGY020",
+      "name": "Fusion Creative Labs",
+      "location": "Miami, FL, USA",
+      "employee_count": 25,
+      "founded": 2017,
+      "services": ["Brand Development", "Web Design", "Marketing Strategy", "Social Media"],
+      "tech_stack": ["WordPress", "Wix", "Squarespace", "Mailchimp", "Later"],
+      "annual_revenue_estimate": "$2M - $3.5M",
+      "client_count_estimate": "30-50",
+      "decision_makers": [
+        {
+          "name": "Carlos Mendez",
+          "title": "CEO & Creative Director",
+          "linkedin": "linkedin.com/in/carlosmendez-fusion",
+          "email_pattern": "carlos@fusioncreativelabs.com"
+        },
+        {
+          "name": "Isabella Santos",
+          "title": "Director of Strategy",
+          "linkedin": "linkedin.com/in/isabellasantos-strategy",
+          "email_pattern": "isabella@fusioncreativelabs.com"
+        }
+      ],
+      "pain_points": ["Bilingual design audits (EN/ES)", "Cultural relevance scoring", "Quick competitive comparisons"],
+      "website": "fusioncreativelabs.com",
+      "linkedin_company": "linkedin.com/company/fusion-creative-labs",
+      "industry_focus": ["Hospitality", "Real Estate", "Entertainment", "Retail"],
+      "avg_project_value": "$18,000 - $55,000",
+      "design_audit_frequency": "Project kickoff, quarterly reviews",
+      "current_audit_tools": ["Google Analytics", "Hotjar", "SimilarWeb"],
+      "icp_fit_score": 88
+    },
+    {
+      "id": "AGY021",
+      "name": "Digital Canvas Agency",
+      "location": "Edinburgh, Scotland",
+      "employee_count": 19,
+      "founded": 2019,
+      "services": ["Web Design", "UX Design", "Digital Marketing", "E-commerce"],
+      "tech_stack": ["Shopify", "WordPress", "Figma", "Klaviyo"],
+      "annual_revenue_estimate": "£1.2M - £2.5M",
+      "client_count_estimate": "20-35",
+      "decision_makers": [
+        {
+          "name": "Fiona MacLeod",
+          "title": "Founder & Managing Director",
+          "linkedin": "linkedin.com/in/fionamacleod-canvas",
+          "email_pattern": "fiona@digitalcanvas.scot"
+        },
+        {
+          "name": "Andrew Stewart",
+          "title": "Head of Digital",
+          "linkedin": "linkedin.com/in/andrewstewart-digital",
+          "email_pattern": "andrew@digitalcanvas.scot"
+        }
+      ],
+      "pain_points": ["Scottish market design preferences", "E-commerce conversion optimization", "Client education on metrics"],
+      "website": "digitalcanvas.scot",
+      "linkedin_company": "linkedin.com/company/digital-canvas-agency",
+      "industry_focus": ["E-commerce", "Tourism", "Food & Drink", "Professional Services"],
+      "avg_project_value": "£15,000 - £50,000",
+      "design_audit_frequency": "Bi-monthly for e-commerce clients",
+      "current_audit_tools": ["Shopify Analytics", "Google Analytics", "Lucky Orange"],
+      "icp_fit_score": 89
+    },
+    {
+      "id": "AGY022",
+      "name": "Nexus Digital Studio",
+      "location": "San Francisco, CA, USA",
+      "employee_count": 36,
+      "founded": 2016,
+      "services": ["Web Development", "Mobile Apps", "AI Integration", "Cloud Solutions"],
+      "tech_stack": ["React", "React Native", "Python", "TensorFlow", "GCP"],
+      "annual_revenue_estimate": "$3.5M - $6M",
+      "client_count_estimate": "25-40",
+      "decision_makers": [
+        {
+          "name": "Priya Kapoor",
+          "title": "CEO & Co-Founder",
+          "linkedin": "linkedin.com/in/priyakapoor-nexus",
+          "email_pattern": "priya@nexusdigital.studio"
+        },
+        {
+          "name": "Alex Chen",
+          "title": "CTO & Co-Founder",
+          "linkedin": "linkedin.com/in/alexchen-nexus",
+          "email_pattern": "alex@nexusdigital.studio"
+        },
+        {
+          "name": "Maria Garcia",
+          "title": "Head of Product Design",
+          "linkedin": "linkedin.com/in/mariagarcia-product",
+          "email_pattern": "maria@nexusdigital.studio"
+        }
+      ],
+      "pain_points": ["AI-enhanced design validation", "Technical + design quality balance", "Rapid prototyping evaluation"],
+      "website": "nexusdigital.studio",
+      "linkedin_company": "linkedin.com/company/nexus-digital-studio",
+      "industry_focus": ["SaaS", "AI/ML", "FinTech", "Enterprise Software"],
+      "avg_project_value": "$75,000 - $250,000",
+      "design_audit_frequency": "Sprint-based, continuous integration",
+      "current_audit_tools": ["Custom ML models", "Lighthouse CI", "Figma", "Storybook"],
+      "icp_fit_score": 79
+    },
+    {
+      "id": "AGY023",
+      "name": "Amplify Marketing Co.",
+      "location": "Charlotte, NC, USA",
+      "employee_count": 28,
+      "founded": 2018,
+      "services": ["Digital Marketing", "Web Design", "Video Marketing", "Lead Generation"],
+      "tech_stack": ["WordPress", "HubSpot", "Vidyard", "Google Ads"],
+      "annual_revenue_estimate": "$2.5M - $4M",
+      "client_count_estimate": "35-55",
+      "decision_makers": [
+        {
+          "name": "Ryan Thompson",
+          "title": "President",
+          "linkedin": "linkedin.com/in/ryanthompson-amplify",
+          "email_pattern": "ryan@amplifymarketing.co"
+        },
+        {
+          "name": "Jessica Lee",
+          "title": "VP of Creative Services",
+          "linkedin": "linkedin.com/in/jessicalee-creative",
+          "email_pattern": "jessica@amplifymarketing.co"
+        }
+      ],
+      "pain_points": ["Video landing page optimization", "Lead generation design scoring", "A/B testing insights"],
+      "website": "amplifymarketing.co",
+      "linkedin_company": "linkedin.com/company/amplify-marketing-co",
+      "industry_focus": ["B2B Services", "SaaS", "Financial Services", "Healthcare"],
+      "avg_project_value": "$20,000 - $60,000",
+      "design_audit_frequency": "Campaign setup, monthly optimization",
+      "current_audit_tools": ["HubSpot Analytics", "Unbounce", "VWO"],
+      "icp_fit_score": 87
+    },
+    {
+      "id": "AGY024",
+      "name": "Thrive Digital Collective",
+      "location": "Wellington, New Zealand",
+      "employee_count": 22,
+      "founded": 2019,
+      "services": ["Web Design", "Digital Strategy", "Content Marketing", "SEO"],
+      "tech_stack": ["WordPress", "Craft CMS", "Ahrefs", "Google Analytics"],
+      "annual_revenue_estimate": "NZD $1.8M - $3M",
+      "client_count_estimate": "25-40",
+      "decision_makers": [
+        {
+          "name": "Hannah Wilson",
+          "title": "Founder & Director",
+          "linkedin": "linkedin.com/in/hannahwilson-thrive",
+          "email_pattern": "hannah@thrivedigital.nz"
+        },
+        {
+          "name": "James Taylor",
+          "title": "Head of Digital Strategy",
+          "linkedin": "linkedin.com/in/jamestaylor-strategy",
+          "email_pattern": "james@thrivedigital.nz"
+        }
+      ],
+      "pain_points": ["Remote client communication", "International design standards", "Time zone collaboration tools"],
+      "website": "thrivedigital.nz",
+      "linkedin_company": "linkedin.com/company/thrive-digital-collective",
+      "industry_focus": ["Tourism", "Agriculture", "Professional Services", "E-commerce"],
+      "avg_project_value": "NZD $20,000 - $65,000",
+      "design_audit_frequency": "Quarterly strategic reviews",
+      "current_audit_tools": ["Google Analytics", "Screaming Frog", "Hotjar"],
+      "icp_fit_score": 84
+    },
+    {
+      "id": "AGY025",
+      "name": "Elevate Brand Studio",
+      "location": "Columbus, OH, USA",
+      "employee_count": 18,
+      "founded": 2020,
+      "services": ["Brand Identity", "Web Design", "Packaging Design", "Marketing"],
+      "tech_stack": ["Adobe Creative Suite", "Webflow", "Figma", "Monday.com"],
+      "annual_revenue_estimate": "$1.5M - $2.5M",
+      "client_count_estimate": "20-35",
+      "decision_makers": [
+        {
+          "name": "Grace Mitchell",
+          "title": "Founder & Creative Director",
+          "linkedin": "linkedin.com/in/gracemitchell-elevate",
+          "email_pattern": "grace@elevatebrandstudio.com"
+        },
+        {
+          "name": "Tyler Johnson",
+          "title": "Digital Director",
+          "linkedin": "linkedin.com/in/tylerjohnson-digital",
+          "email_pattern": "tyler@elevatebrandstudio.com"
+        }
+      ],
+      "pain_points": ["Brand consistency scoring", "Design system documentation", "Client onboarding efficiency"],
+      "website": "elevatebrandstudio.com",
+      "linkedin_company": "linkedin.com/company/elevate-brand-studio",
+      "industry_focus": ["Consumer Goods", "Food & Beverage", "Wellness", "Retail"],
+      "avg_project_value": "$22,000 - $65,000",
+      "design_audit_frequency": "Brand launch, quarterly brand health checks",
+      "current_audit_tools": ["Brand.ai", "Google Analytics", "Webflow Analytics"],
+      "icp_fit_score": 91
+    }
+  ],
+  "market_insights": {
+    "total_addressable_agencies": "~8,500 agencies in target size range (10-50 employees)",
+    "average_audit_cost": "$800 - $2,500 per manual audit",
+    "average_audit_frequency": "4-12 times per year per agency",
+    "key_pain_points_summary": [
+      "Time-intensive manual audits (8-12 hours per audit)",
+      "Difficulty quantifying design improvements with data",
+      "Inconsistent client reporting and metrics",
+      "Lack of competitive benchmarking tools",
+      "Scaling quality control across growing teams",
+      "Justifying design decisions to non-design stakeholders"
+    ],
+    "decision_maker_roles": [
+      "CEO/Owner (45%)",
+      "Creative Director (25%)",
+      "Director of Client Services (15%)",
+      "VP of Digital Services (10%)",
+      "Operations Manager (5%)"
+    ],
+    "buying_triggers": [
+      "New client onboarding process",
+      "Pitching for new business",
+      "Client reporting requirements",
+      "Scaling operations",
+      "Competitive differentiation needs"
+    ],
+    "technology_adoption": {
+      "wordpress": "72% of agencies",
+      "shopify_ecommerce": "48% of agencies",
+      "webflow": "34% of agencies",
+      "google_analytics": "95% of agencies",
+      "figma": "56% of agencies"
+    }
+  }
+}
