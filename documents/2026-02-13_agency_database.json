@@ -1,0 +1,382 @@
+{
+  "metadata": {
+    "created": "2026-02-13",
+    "description": "Comprehensive database of target digital marketing agencies for DesignChecker",
+    "totalAgencies": 8,
+    "sources": [
+      "DesignRush",
+      "Clutch.co",
+      "Digital Agency Network",
+      "Agency websites",
+      "LinkedIn",
+      "ZoomInfo"
+    ]
+  },
+  "agencies": [
+    {
+      "id": "forefront-web",
+      "name": "ForeFront Web",
+      "founded": 2001,
+      "location": {
+        "city": "Dublin",
+        "state": "OH",
+        "country": "USA",
+        "address": "7155 Post Road, Dublin, OH 43016"
+      },
+      "size": {
+        "employees": 13,
+        "range": "10-49"
+      },
+      "services": [
+        "Web Design & Development",
+        "SEO",
+        "Social Media Marketing",
+        "PPC",
+        "Branding",
+        "Conversion Optimization",
+        "Website Maintenance"
+      ],
+      "pricing": {
+        "hourlyRate": 150,
+        "webDesignMinimum": 15000,
+        "digitalMarketingMinimum": 4000
+      },
+      "contact": {
+        "website": "https://forefrontweb.com",
+        "phone": "Available on website",
+        "email": "Contact form available"
+      },
+      "specialization": "Google Premier Partner - Top 3% of US agencies",
+      "targetCustomer": "Mid-market businesses seeking comprehensive digital marketing",
+      "painPoints": [
+        "Need for integrated web design and SEO",
+        "ROI-focused marketing solutions",
+        "Ongoing website optimization"
+      ]
+    },
+    {
+      "id": "bop-design",
+      "name": "Bop Design",
+      "founded": 2008,
+      "location": {
+        "city": "San Diego",
+        "state": "CA",
+        "country": "USA",
+        "address": "401 W A Street Suite 200, San Diego, CA 92101",
+        "additionalLocations": ["Irvine, CA", "Los Angeles, CA"]
+      },
+      "size": {
+        "employees": 35,
+        "range": "28-43"
+      },
+      "leadership": {
+        "ceo": "Kara Jensen",
+        "cofounder": "Jeremy Durant",
+        "structure": "Husband-and-wife founded team"
+      },
+      "services": [
+        "B2B Web Design",
+        "Content Marketing",
+        "Branding",
+        "Digital Marketing"
+      ],
+      "contact": {
+        "website": "https://www.bopdesign.com",
+        "phone": "888-670-7803",
+        "alternatePhone": "760-470-1275",
+        "email": "info@bopdesign.com"
+      },
+      "achievements": [
+        "Inc. 5000 honoree (2021)",
+        "Newsweek #35 - America's Most Reliable Companies (2025)"
+      ],
+      "specialization": "B2B focused agency with expertise in complex sales cycles",
+      "targetCustomer": "B2B companies needing lead generation and brand positioning",
+      "painPoints": [
+        "B2B website conversion optimization",
+        "Lead generation through design",
+        "Brand differentiation in crowded markets"
+      ]
+    },
+    {
+      "id": "design-in-dc",
+      "name": "Design In DC",
+      "founded": 2016,
+      "location": {
+        "city": "Washington",
+        "state": "DC",
+        "country": "USA",
+        "address": "1101 Connecticut Ave Northwest Suite 450 #94, Washington DC 20036"
+      },
+      "size": {
+        "employees": 50,
+        "range": "50-99",
+        "projectTeam": 6
+      },
+      "services": [
+        "Web Design",
+        "Web Development",
+        "Branding",
+        "Digital Marketing",
+        "Design Audits",
+        "Accessibility Compliance",
+        "CRO"
+      ],
+      "pricing": {
+        "hourlyRate": 160,
+        "minimumBudget": "10000-25000"
+      },
+      "contact": {
+        "website": "https://designindc.com",
+        "location": "Washington DC"
+      },
+      "specialization": "Boutique agency serving top brands, NGOs, and government agencies",
+      "achievements": [
+        "Audited 200+ digital properties",
+        "Part of award-winning Design In Network"
+      ],
+      "targetCustomer": "Government agencies, NGOs, enterprise brands in DMV area",
+      "painPoints": [
+        "Complex compliance requirements",
+        "Accessibility standards",
+        "Design system consistency"
+      ]
+    },
+    {
+      "id": "red-spot-design",
+      "name": "Red Spot Design",
+      "founded": 2001,
+      "location": {
+        "city": "Dallas",
+        "state": "TX",
+        "country": "USA",
+        "address": "3010 Lyndon B Johnson Fwy Fl 1200, Dallas, TX 75234"
+      },
+      "size": {
+        "employees": 6,
+        "range": "4-6",
+        "projectTeam": "2-5"
+      },
+      "leadership": {
+        "ceo": "David Russell",
+        "email": "[email protected]"
+      },
+      "services": [
+        "Web Design",
+        "Internet Marketing",
+        "SEO",
+        "Website Hosting"
+      ],
+      "contact": {
+        "website": "https://www.redspotdesign.com",
+        "phone": "214-432-1608",
+        "email": "[email protected]",
+        "hours": "Mon-Fri: 8am-5pm, Sat: 9am-12pm, Sun: Closed"
+      },
+      "operatingRegions": ["North America", "Asia"],
+      "specialization": "Small boutique agency with over 20 years experience",
+      "targetCustomer": "Small to mid-sized businesses needing full-service web solutions",
+      "painPoints": [
+        "Cost-effective web design",
+        "Ongoing maintenance and hosting",
+        "Local Dallas market presence"
+      ]
+    },
+    {
+      "id": "o8-agency",
+      "name": "O8",
+      "founded": 2010,
+      "location": {
+        "city": "Minneapolis",
+        "state": "MN",
+        "country": "USA",
+        "address": "5123 W. 98th St. #1242"
+      },
+      "size": {
+        "employees": 30,
+        "range": "11-50"
+      },
+      "leadership": {
+        "founder": "Seth Viebrock",
+        "title": "Founder & CEO",
+        "background": "Former network security analyst, eCommerce engineer, startup CTO"
+      },
+      "services": [
+        "Digital Marketing",
+        "Web Design",
+        "Web Development",
+        "HubSpot Services",
+        "WordPress",
+        "Drupal",
+        "SEO",
+        "UX Design",
+        "Website Audit Services"
+      ],
+      "contact": {
+        "website": "https://www.o8.agency",
+        "phone": "612-276-5880"
+      },
+      "certifications": [
+        "LGBT Business Enterprise"
+      ],
+      "specialization": "Global multicultural team with HubSpot and WordPress expertise",
+      "notableClients": [
+        "Justin Bieber (founder's previous work)",
+        "Mariah Carey (founder's previous work)"
+      ],
+      "targetCustomer": "Marketing teams needing HubSpot integration and web development",
+      "painPoints": [
+        "HubSpot implementation and optimization",
+        "Website audits and technical improvements",
+        "UX and conversion optimization"
+      ]
+    },
+    {
+      "id": "ewr-digital",
+      "name": "EWR Digital",
+      "founded": 1999,
+      "location": {
+        "city": "Houston",
+        "state": "TX",
+        "country": "USA",
+        "address": "13105 Northwest Fwy, #500-35, Houston, TX 77040"
+      },
+      "size": {
+        "employees": 40,
+        "range": "11-50",
+        "network": "160+ expert consultants",
+        "globalPresence": "5 continents"
+      },
+      "services": [
+        "SEO Consulting",
+        "PPC Services",
+        "Web Design",
+        "Web Development",
+        "Graphic Design",
+        "Branding",
+        "Video Production",
+        "AI-Driven Marketing",
+        "Web Design Audits"
+      ],
+      "contact": {
+        "website": "https://www.ewrdigital.com",
+        "contactPage": "https://www.ewrdigital.com/contact"
+      },
+      "specialization": "26 years experience with enterprise clients in complex industries",
+      "targetIndustries": [
+        "Oil & Gas",
+        "Industrial",
+        "Medical",
+        "Professional Services"
+      ],
+      "targetCustomer": "Enterprise CMOs, CROs, and business leaders in complex B2B industries",
+      "painPoints": [
+        "Complex industry-specific marketing",
+        "Enterprise-scale SEO and paid media",
+        "AI-driven growth systems"
+      ]
+    },
+    {
+      "id": "digital-silk",
+      "name": "Digital Silk",
+      "founded": "1990s",
+      "location": {
+        "city": "Multiple",
+        "state": "Multiple",
+        "country": "USA"
+      },
+      "size": {
+        "employees": 150,
+        "range": "100-249"
+      },
+      "leadership": {
+        "ceo": "Gabriel Shaoolian",
+        "title": "CEO & Founder",
+        "experience": "25+ years in digital experience"
+      },
+      "services": [
+        "Web Design",
+        "Digital Strategy",
+        "Brand Development",
+        "Digital Marketing",
+        "eCommerce"
+      ],
+      "notableClients": [
+        "SONY",
+        "P&G",
+        "NYU",
+        "Fortune 500 companies"
+      ],
+      "specialization": "Enterprise-level digital experiences for Fortune 500 companies",
+      "targetCustomer": "Large enterprises and Fortune 500 companies",
+      "painPoints": [
+        "Enterprise-scale digital transformation",
+        "Brand positioning for major corporations",
+        "Complex multi-stakeholder projects"
+      ]
+    },
+    {
+      "id": "door3",
+      "name": "DOOR3",
+      "location": {
+        "city": "New York",
+        "state": "NY",
+        "country": "USA"
+      },
+      "size": {
+        "employees": 45,
+        "range": "25-50"
+      },
+      "services": [
+        "UX Audit Services",
+        "UX Design",
+        "Web Development",
+        "Product Design",
+        "Technology Consulting"
+      ],
+      "contact": {
+        "website": "https://www.door3.com"
+      },
+      "specialization": "UX audit agency with holistic product assessment approach",
+      "targetCustomer": "Companies needing comprehensive UX audits and product improvements",
+      "painPoints": [
+        "Product UX optimization",
+        "Holistic user experience assessment",
+        "Technology-design integration"
+      ]
+    }
+  ],
+  "marketInsights": {
+    "totalAddressableMarket": "589+ web design agencies in USA (Semrush)",
+    "directories": [
+      "DesignRush: 9,855 web design companies",
+      "Clutch.co: Major directory with reviews",
+      "Digital Agency Network: Curated listings",
+      "50Pros: Top 50 vetted agencies"
+    ],
+    "keyTrends2026": [
+      "63% of businesses outsource to agencies",
+      "91% identify websites as top marketing channel",
+      "Boutique agencies increasing relevance",
+      "Focus on personalization and custom design",
+      "AI-driven marketing and automation adoption"
+    ],
+    "auditPricing": {
+      "typical": "1500-3000",
+      "note": "Cost typically offset by measurable ROI"
+    },
+    "targetProfile": {
+      "idealSize": "10-50 employees",
+      "services": ["Web Design", "Digital Marketing", "SEO"],
+      "decisionMakers": ["CEO/Founder", "Agency Owner", "Creative Director"],
+      "budgetRange": "$10,000-$25,000 per project",
+      "painPoints": [
+        "Manual design audit processes",
+        "Inconsistent quality evaluation",
+        "Time-consuming client reporting",
+        "Lack of objective design metrics",
+        "Need for measurable ROI demonstration"
+      ]
+    }
+  }
+}
